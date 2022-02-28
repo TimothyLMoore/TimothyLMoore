@@ -2,5 +2,5 @@
 
 
 <div align="center">
-💻 <a href="https://github.com/abigger87">Github @abigger87</a> | 🤮 <a href="https://linkedin.com/in/andreasbigger">LinkedIn @andreasbigger</a>
+💻 <a href="https://github.com/TimothyLMoore">Github @TimothyLMoore</a> | 🤮 <a href="https://www.linkedin.com/in/tmoore-1985-mlops/">LinkedIn @TimothyLMoore</a>
 </div>
