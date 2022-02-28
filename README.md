@@ -2,5 +2,5 @@
 
 
 <div align="center">
-💻 <a href="https://github.com/TimothyLMoore">Github @TimothyLMoore</a> | <a href="https://www.linkedin.com/in/timothylmoore85/">LinkedIn @TimothyLMoore</a>
+💻 <a href="https://github.com/TimothyLMoore">Github @TimothyLMoore</a> | 👨‍🎓 <a href="https://www.linkedin.com/in/timothylmoore85/">LinkedIn @TimothyLMoore</a>
 </div>
